@@ -1,7 +1,7 @@
 # Book_list_js
 simle app that can store book details
 <p>
-<a href=''>Go to site</a>
+<a href='https://practical-ptolemy-6b2c7b.netlify.app/'>Go to site</a>
 </p>
 <h2>Screenshots</h2>
 <div align='center'>
